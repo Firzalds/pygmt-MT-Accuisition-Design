@@ -1,2 +1,2 @@
 # pygmt-MT-Accuisition-Design
-Creating MT Accusition Design Map at Solok Region, West Sumatra, Indonesia
+Creating Magnetotellurics Accusition Design Map at Solok Region, West Sumatra, Indonesia
